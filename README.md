@@ -29,9 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micayle-beukes&show_icons=true&locale=en&layout=compact" alt="micayle-beukes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=micayle-beukes&show_icons=true&locale=en" alt="micayle-beukes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=micayle-beukes&" alt="micayle-beukes" /></p>
 
 
 <!---
